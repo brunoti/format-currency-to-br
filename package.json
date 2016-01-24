@@ -1,0 +1,11 @@
+{
+  "name": "format-currency-to-br",
+  "version": "1.0.0",
+  "description": "A simple function to transform a valid float number like \"2322.23\" to the a masked string like the brazilian currency \"R$ 2.322,23\".",
+  "main": "index.js",
+  "keywords" : [
+      "i18n", "brasil", "brazil", "dinheiro", "unmask", "currency"
+  ],
+  "author": "Bruno Oliveira <bruno.oliveirati1@gmail.com>",
+  "license": "MIT"
+}
