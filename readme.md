@@ -26,7 +26,7 @@ Or you can just [download a ZIP](https://github.com/brunoti/format-currency-to-b
 
 ###### Node or Browserify
 ``` js
-var formatCurrencyToBr = require('format-currency.to-br');
+var formatCurrencyToBr = require('format-currency-to-br');
 ```
 
 ###### Browser (Global)
